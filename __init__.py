@@ -12,7 +12,7 @@ __author__		= "kubinka0505"
 __copyright__		= __author__
 __credits__		= [__author__, "SuperCuber"]
 __version__		= "2.0"
-__date__		= "14.11.2020"
+__date__		= "13.11.2020"
 __status__		= "Development"
 __license__		= "GPL v1"
 
@@ -21,7 +21,7 @@ print("Setting up utils...")
 exec(open("{0}{1}Scripts{1}Utils.py".format(os.getcwd(), "\\" if system != "Windows" else "/")).read())
 
 print("Converting URL Image to Frames... This can take a while.")
-os.system("ffmpeg.exe -i {0} Frame_%06d.{1} -hide_banner -loglevel panic".format(__Get_Service(Config()["Image"]["URL"]), __FORMAT))
+os.system("ffmpeg.exe -i {0} -vf mpdecimate,setpts=N/FRAME_RATE/TB Frame_%06d.{1} -hide_banner -loglevel panic".format(__Get_Service(Config()["Image"]["URL"]), __FORMAT))
 
 Frames = [File for File in os.listdir(os.getcwd()) if File.endswith(__FORMAT)]
 Frames.sort(key = str)
