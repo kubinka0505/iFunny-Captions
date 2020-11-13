@@ -1,0 +1,16 @@
+{
+	"Image": {
+		"URL": ""
+	},
+	"Font": {
+		"Type": 2,
+		"Size": 72
+	},
+	"Settings": {
+		"Loop": 0,
+		"Speed": 28,
+		"Quality": 75
+	},
+	"Text": "",
+	"Wrap": 12
+}
