@@ -13,7 +13,7 @@ I was very unsatisfied that there was only a mobile app caption tool so I've dec
 - [ ] Offline support
 - [ ] <code>Giphy</code> URLs support＊
 - [x] <code>Tenor</code> URLs support＊
-- [ ] Optimization
+- [x] Optimization
 
 ＊ - Beta
 
@@ -22,7 +22,7 @@ I was very unsatisfied that there was only a mobile app caption tool so I've dec
 - <code>PIL</code>
 - <code>requests</code>
 - <code>textwrap</code>
-- <b><code>ffmpeg.exe >= 2.2.3</code></b> ([Download, unzip and move <code>ffmpeg.exe</code> from <code>bin</code> to main folder](https://www.videohelp.com/software/ffmpeg/old-versions ""))
+- <b><code>ffmpeg.exe >= 4.0.0</code></b> ([Download, unzip and move <code>ffmpeg.exe</code> from <code>bin</code> to main folder](https://www.videohelp.com/software/ffmpeg/old-versions ""))
 
 ## Usage
 1. Modify the parameters in the <code>Config.json</code>:
