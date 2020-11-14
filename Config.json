@@ -1,16 +1,15 @@
 {
 	"Image": {
-		"URL": ""
+		"URL": "",
+		"Max_Width": 300,
+		"Crop": false
 	},
 	"Font": {
-		"Type": 2,
-		"Size": 72
+		"Type": 3
 	},
 	"Settings": {
-		"Loop": 0,
-		"Speed": 28,
-		"Quality": 75
+		"Speed": 28
 	},
 	"Text": "",
-	"Wrap": 12
+	"Wrap": 14
 }
