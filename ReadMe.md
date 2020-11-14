@@ -11,7 +11,7 @@ I was very unsatisfied that there was only a mobile app caption tool so I've dec
 - [x] PNG Captions
 - [x] GIF Captions
 - [ ] Offline support
-- [ ] <code>Giphy</code> URLs support＊
+- [x] <code>Giphy</code> URLs support＊
 - [x] <code>Tenor</code> URLs support＊
 - [x] Optimization
 
