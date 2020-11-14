@@ -11,3 +11,8 @@ Initial release.
 Bug-fixing.
 Added GIF support.
 Changed fonts.
+
+## 2.1
+Modified several functions.
+Optimized creation time (ffmpeg >= 4.0.0)
+Added font.
