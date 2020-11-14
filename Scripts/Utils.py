@@ -11,8 +11,15 @@ def Trans_Paste(Background: Image, Foreground: Image) -> Image:
 	return IMG_RET
 
 def __Get_Service(URL: str):
+	"""Converting raw URL to direct Image.
+
+	Supported Services:
+	- Tenor
+	- Giphy"""
 	if "tenor.com/view" in URL:
 		return get(URL).text.split('contentUrl')[1].split("content")[0][2:].split('"')[1].replace("\\u002F", "/")
+	if "giphy.com/gifs" in URL:
+		return "https://media"+str(get(URL).text).split("https://media")[2].split('"')[0]
 	else:
 		return URL
 
