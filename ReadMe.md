@@ -14,6 +14,9 @@ I was very unsatisfied that there was only a mobile app caption tool so I've dec
 - [x] <code>Giphy</code> URLs support＊
 - [x] <code>Tenor</code> URLs support＊
 - [x] Optimization
+- [ ] GIF size reduction
+- [ ] Transparent GIF support
+- [ ] <i>[Program Showcase]()</i>
 
 ＊ - Beta
 
@@ -22,23 +25,23 @@ I was very unsatisfied that there was only a mobile app caption tool so I've dec
 - <code>PIL</code>
 - <code>requests</code>
 - <code>textwrap</code>
-- <b><code>ffmpeg.exe >= 4.0.0</code></b> ([Download, unzip and move <code>ffmpeg.exe</code> from <code>bin</code> to main folder](https://www.videohelp.com/software/ffmpeg/old-versions ""))
+- <b><code>ffmpeg.exe >= 4.0.0</code></b> ([Download version based on Your OS, unzip and move <code>ffmpeg.exe</code> from <code>bin</code> to main folder](https://www.videohelp.com/software/ffmpeg/old-versions "Windows: win | Linux: tar | MacOS: macos"))
 
 ## Usage
 1. Modify the parameters in the <code>Config.json</code>:
 - <code>Image</code> :
-  - <code>URL</code> : <b>Direct</b> Image URL.
+  - <code>URL</code> : <b>Direct</b> media URL. <u>[Can be any Image/Video format that <code>ffmpeg</code> supports](https://en.wikipedia.org/wiki/FFmpeg#Supported_formats "Supported ffmpeg formats")</u>.
+  - <code>Max_Width</code> : Maximum single frame width. Height is relatively scaled, same as font size. <i>Formula: Max Width ÷ 10</i>. <b>Default is <code>false</code></b>.
+  - <code>Crop</code> : Crops transparent pixels around the <b><u>every frame</u></b>. <b>Default is 300</b>.
 - <code>Font</code> :
-- <code>Type</code> : Defines font style used as caption text. <b>Default is 2</b>.
-    - <code>1</code> : <code>Roboto Black</code>
-    - <code>2</code> : <code>Futura Condensed Extra Bold</code>
-  - <code>Size</code> : Font size in pixels. <b>Default is <code>72</code></b>.
+  - <code>Type</code> : Defines font style used as caption text. <b>Default is <code>2</code></b>.
+    - <code>1</code> : <code>Roboto Black</code> (otf)
+    - <code>2</code> : <code>Futura Condensed Extra Bold</code> (otf)
+    - <code>3</code> : <code>Futura BT Pro Condensed Extra Black</code> (ttf)＊
 - <code>Settings</code> :
-  - <code>Loop</code> : Loop counts. <b>Default is 0 (∞)</b>.
-  - <code>Speed</code> : Single GIF frame display time. (in milliseconds). <b>Default is 28</b>.
-  - <code>Quality</code> : Image Quality. <b>Default is 75</b>.
+  - <code>Speed</code> : Single frame display time. (in milliseconds). <b>Default is 28</b>.
 - <code>Text</code> : Image caption text.
-- <code>Wrap</code> : Text-wrap, used to break the words. <b>Default is 12</b>.
+- <code>Wrap</code> : Text-wrap, used to break the words. <b>Default is 14</b>.
 2. Open <code>Run.sh</code>
 3. ...or go to Your command prompt and type following:
 	```bash
@@ -47,3 +50,5 @@ I was very unsatisfied that there was only a mobile app caption tool so I've dec
 	py __init__.py
 	```
 4. Share Your image from <code>Captions</code> directory.
+
+＊ - TrueType fonts (ttf) are poorly resized and will look bad on small images.
