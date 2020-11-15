@@ -1,0 +1,18 @@
+{
+	"Image": {
+		"URL": "",
+		"Max_Width": 300,
+		"Crop": false
+	},
+	"Font": {
+		"Type": 2,
+		"Size": false
+	},
+	"Settings": {
+		"Speed / FPS": 24,
+		"Saving_Method": 1,
+		"Logs": true
+	},
+	"Text": "",
+	"Wrap": 14
+}
