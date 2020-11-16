@@ -1,0 +1,19 @@
+{
+	"Image": {
+		"URL": "",
+		"Max_Width": 300,
+		"Crop": false
+	},
+	"Font": {
+		"Type": 3,
+		"Size": false
+	},
+	"Settings": {
+		"Delay": 12,
+		"Saving_Method": 1,
+		"Optimize": true,
+		"Logs": false
+	},
+	"Text": "",
+	"Wrap_Factor": 2
+}
