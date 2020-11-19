@@ -63,8 +63,8 @@ I was very unsatisfied that there was only a mobile app for those captions, so I
     - Detailed information about image creation time
 - `Content` : Image text content.
   - `Text` : **If You are on Windows(?), you need to configure Your text like in these examples**:
-    - `"Yea, I've played "Helltaker"`, → `"Yea, I've played \"Helltaker\""`
-	- `_\| VIP |/_` → `_\\| VIP |/_`
+    - `"Yea, I've played "Helltaker""`, → `"Yea, I've played \"Helltaker\""`
+    - `"_\| VIP |/_"` → `"_\\| VIP |/_"`
   - `Wrap_Factor` : Text-wrapping factor used to break the words. **Is dependent on `Max_Width`**. (Unstable Formula)  **Default is `2`**.
 3. Open `Run.sh`
 ...or go to Your command prompt and type the following:
