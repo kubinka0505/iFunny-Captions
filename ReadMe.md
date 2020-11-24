@@ -6,6 +6,8 @@
 
 <p align="center"><a href="../../issues/"><img src="https://img.shields.io/github/issues/kubinka0505/iFunny-Captions?style=for-the-badge"></a>　<a href="https://www.gnu.org/licenses/old-licenses/gpl-1.0.txt"><img src="https://img.shields.io/badge/license-GPL%20V1-yellow?style=for-the-badge"></a></p>
 
+<p align="center"><img src="https://img.shields.io/github/languages/code-size/kubinka0505/iFunny-Captions?style=for-the-badge"></p>
+
 ## Description 🖥️
 I was very unsatisfied that there was only a mobile app for those captions, so I've decided to create one for the PC.
 
