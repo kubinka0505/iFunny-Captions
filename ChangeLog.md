@@ -71,7 +71,7 @@ Initial release.
 - Font randomness - Created an empty file if the font was type `0` and if it returned `Roboto Black`.
 
 ## 2.6
-### Added
+### Added ➕
 - Support to following GIF services:
   - `MakeAGif.com`
   - `Gifer.com`
