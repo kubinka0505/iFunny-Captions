@@ -48,7 +48,7 @@ I was very unsatisfied that there was only a mobile app for those captions, so I
 - **`FFmpeg >= 4.2.0 static executable binary`** - Since `PIL.ImageSequence.Iterator` messes up the frames colors.
   - [Windows](https://www.videohelp.com/software/ffmpeg/old-versions) (Move `ffmpeg.exe` from `bin` to main folder)
   - [Linux](https://www.johnvansickle.com/ffmpeg/old-releases)
-- `gifsicle >= 1.92.2 static executable binary`
+- `gifsicle >= 1.92-2 static executable binary`
   - [Windows](https://eternallybored.org/misc/gifsicle/releases) (Move `gifsicle.exe` to main folder)
   - [Linux (Debian)](https://www.lcdf.org/gifsicle)
 ---
