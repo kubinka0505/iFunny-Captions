@@ -104,7 +104,7 @@ If some doesn't work, copy **direct GIF URL** from the Image in site, or just in
     <tr align=center>
       <td><a href="https://tenor.com"><img src="https://cdn.discordapp.com/attachments/267356180064501760/778241233297997844/Tenor_Logo.png" alt="Tenor" width="65"></a></td>
       <td><a href="https://giphy.com"><img src="https://cdn.discordapp.com/attachments/267356180064501760/778241495508713482/Giphy_Logo.png" alt="Giphy" width="65"></a></td>
-      <td><a href="http://gfycat.com"><img src="https://cdn.discordapp.com/attachments/267356180064501760/778241493034336296/Gfycat_Logo.png" alt="Gfycat" width="65"></a></td>
+      <td><a href="https://gfycat.com"><img src="https://cdn.discordapp.com/attachments/267356180064501760/778241493034336296/Gfycat_Logo.png" alt="Gfycat" width="65"></a></td>
       <td><a href="https://imgflip.com"><img src="https://cdn.discordapp.com/attachments/267356180064501760/778372465599971328/ImgFlip_Logo.png" alt="ImgFlip" width="65"></a></td>
       <td><a href="https://gifer.com"><img src="https://cdn.discordapp.com/attachments/267356180064501760/779682825481093160/Gifer_Logo.png" alt="Gifer" width="65"></a></td>
       <td><a href="https://gifimage.net"><img src="https://cdn.discordapp.com/attachments/267356180064501760/779685966767980594/GifImage_Logo.png" alt="GifImage" width="65"></a></td>
