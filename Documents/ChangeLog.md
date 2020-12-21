@@ -137,6 +137,7 @@ Initial release.
 ## Re-release 2.8
 ### Added ➕
 - Google Colab notebook.
+- `Folders` Wiki page.
 ### Modified 🔁
 - Replaced examples in `Images`.
 ### Fixed 📝
