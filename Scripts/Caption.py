@@ -23,7 +23,6 @@ __Font_Size = Config["Image"]["Max_Width"] // 10
 # Font & Emoji Style Setup
 
 __Fonts = {Keys + 1: Values for Keys, Values in enumerate([File[:-4] for File in next(os.walk(os.getcwd() + "/Fonts"))[2] if File.endswith("otf")][::-1])}
-print(__Fonts)
 
 if Config["Font"]["Type"] == 1:
 	__Style = 3
