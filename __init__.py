@@ -6,7 +6,6 @@ own text and picture using `Config.json` file."""
 
 __STA_TIME = __import__("time").time()
 import re, os, io
-from path import Path
 from requests import get
 from textwrap import wrap
 from platform import system
