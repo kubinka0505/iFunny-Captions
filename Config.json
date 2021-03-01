@@ -1,0 +1,18 @@
+{
+	"Image": {
+		"URL / Path": "",
+		"Max_Width": 300
+	},
+	"Font": {
+		"Type": 2,
+		"Size": false
+	},
+	"Settings": {
+		"Delay": 5,
+		"Optimize_Factor": 3,
+		"FFmpeg_Location": "",
+		"Logs": false
+	},
+	"Text": "",
+	"Wrap_Factor": 2
+}
