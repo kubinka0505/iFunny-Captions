@@ -1,0 +1,15 @@
+{
+	"Image": {
+		"URL": "",
+		"Max_Width": 300,
+		"Crop": false
+	},
+	"Font": {
+		"Type": 2
+	},
+	"Settings": {
+		"Speed": 28
+	},
+	"Text": "",
+	"Wrap": 14
+}
