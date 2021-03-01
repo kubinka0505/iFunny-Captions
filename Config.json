@@ -1,0 +1,26 @@
+{
+	"Text": {
+		"Content": "",
+		"Additional_Wrap": 1,
+		"Emoji_Style": false
+	},
+	"Image": {
+		"URL / Path": ""
+	},
+	"Font": {
+		"Type": 2
+	},
+	"Settings": {
+		"Delay": 5,
+		"Optimize": {
+			"Enabled": true,
+			"Lossy": 200
+		},
+		"Dark_Mode": {
+			"Enabled": false,
+			"After_Hour": 22
+		},
+		"FFmpeg_Location": "",
+		"Time_Logs": false
+	}
+}
