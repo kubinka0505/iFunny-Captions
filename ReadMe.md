@@ -25,7 +25,6 @@ I was very unsatisfied that there was only a mobile app for those captions, so I
 | Automatic text wrap | ✔️ | ✔️ | ≈✔️ |
 | Crop support | ✔️ | ✔️ | ❌ |
 | Image size optimization | ❌ | ❔ | ✔️ |
-| Graphical User Interface | ✔️ | ✔️ | ✔️ <img src="https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/Main/Google_Colab.svg" width=25> |
 | Command Line Interface | ❌ | ❌ | ✔️ |
 ---
 ## Completed & Planned Features 🧑‍💻
