@@ -40,7 +40,6 @@ I was very unsatisfied that there was only a mobile app for those captions, so I
 - ✔️ Transparent GIF support
 - ✔️ Program Showcase ([Colab](https://www.youtube.com/watch?v=Uf-D2iEOvDU))
 - ❌ Get smaller FFmpeg build
-- ✔️ ~~GUI Version~~ Colab Notebook
 - ✔️ Emoji support⁴
 - ≈✔️ Automatic text wrap
 
