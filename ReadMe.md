@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://img.shields.io/codeclimate/maintainability/kubinka0505/iFunny-Captions?logo=code-climate&style=for-the-badge"></a></p>
 
-<!--p align="center"><a href="https://colab.research.google.com/github/kubinka0505/iFunny-Captions/blob/master/Documents/iFunny-Captions_(Demo).ipynb"><img src="https://img.shields.io/badge/colab-open-F9AB00?&logoColor=F9AB00&style=for-the-badge&logo=google-colab"></a></p-->
+<p align="center"><a href="https://colab.research.google.com/github/kubinka0505/iFunny-Captions/blob/master/Documents/iFunny-Captions%20(Demo).ipynb"><img src="https://img.shields.io/badge/colab-open-F9AB00?&logoColor=F9AB00&style=for-the-badge&logo=google-colab"></a></p>
 
 ## Description 📝
 I was very unsatisfied that there was only a mobile app for those captions, so I've decided to create one for the PC.
@@ -25,6 +25,7 @@ I was very unsatisfied that there was only a mobile app for those captions, so I
 | Automatic text wrap | ✔️ | ✔️ | ≈✔️ |
 | Crop support | ✔️ | ✔️ | ❌ |
 | Image size optimization | ❌ | ❔ | ✔️ |
+| Graphical User Interface | ✔️ | ✔️ | ✔️ <img src="https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/Main/Google_Colab.svg" width=25> |
 | Command Line Interface | ❌ | ❌ | ✔️ |
 ---
 ## Completed & Planned Features 🧑‍💻
@@ -40,6 +41,7 @@ I was very unsatisfied that there was only a mobile app for those captions, so I
 - ✔️ Transparent GIF support
 - ✔️ Program Showcase ([Colab](https://www.youtube.com/watch?v=Uf-D2iEOvDU))
 - ❌ Get smaller FFmpeg build
+- ✔️ ~~GUI Version~~ Colab Notebook
 - ✔️ Emoji support⁴
 - ≈✔️ Automatic text wrap
 
