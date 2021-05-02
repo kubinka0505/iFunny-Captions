@@ -105,8 +105,8 @@ If some doesn't work, copy **direct non-static image URL** from the Image in sit
   </thead>
   <tbody>
     <tr align=center>
-      <td><a href="https://tenor.com"><img src="https://raw.githubusercontent.com/master/kubinka0505/iFunny-Captions/Documents/Pictures/GIF_Image_Services_Logos/Tenor.svg" alt="Tenor" width="65"></a></td>
-      <td><a href="https://giphy.com"><img src="https://raw.githubusercontent.com/master/kubinka0505/iFunny-Captions/Documents/Pictures/GIF_Image_Services_Logos/Giphy.svg" alt="Giphy" width="65"></a></td>
+      <td><a href="https://tenor.com"><img src="https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/GIF_Image_Services_Logos/Tenor.svg" alt="Tenor" width="65"></a></td>
+      <td><a href="https://giphy.com"><img src="https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/GIF_Image_Services_Logos/Giphy.svg" alt="Giphy" width="65"></a></td>
       <td><a href="https://gfycat.com"><img src="https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/GIF_Image_Services_Logos/Gfycat.svg" alt="Gfycat" width="65"></a></td>
       <td><a href="https://imgflip.com"><img src="https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/GIF_Image_Services_Logos/ImgFlip.svg" alt="ImgFlip" width="65"></a></td>
       <td><a href="https://gifimage.net"><img src="https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/GIF_Image_Services_Logos/GifImage.png" alt="GifImage" width="65"></a></td>
