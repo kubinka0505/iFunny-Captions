@@ -1,0 +1,51 @@
+{
+	"Text": {
+		"Content": "",
+		"Additional Wrap": 3,
+		"Kerning": -1,
+		"Replacements": {
+			"{nl}":	"\n",
+			"''":	"\""
+			}
+		},
+	"Emoji": {
+		"API Type": 1,
+		"Style if 1": false,
+		"Vendor if 2": false,
+		"Version if 2": false
+	},
+	"Image": {
+		"URL / Path": ""
+	},
+	"Font": {
+		"Type": 2
+	},
+	"Settings": {
+		"Delay": 5,
+		"Percentage Elements Size": {
+			"Font": 10,
+			"Emojis": 67.5,
+			"Leading": 125,
+			"Caption Field Height": 200,
+			"Emoji Height Spacing": 25
+		},
+		"Optimize": {
+			"Enabled": true,
+			"Lossy": 200
+		},
+		"Dark Mode": {
+			"Enabled": false,
+			"After Hour": 22
+		},
+		"Packages": {
+			"Location": {
+				"FFmpeg": null,
+				"Gifsicle": null
+				},
+			"Logs": true
+		},
+		"Colored Prints": true,
+		"Time Logs": true,
+		"Sound": true
+		}
+}
