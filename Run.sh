@@ -1,1 +1,1 @@
-python __init__.pyw
+python3 __init__.pyw
