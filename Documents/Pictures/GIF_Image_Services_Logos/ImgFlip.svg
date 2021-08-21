@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs/>
+  <defs>
+    <linearGradient id="a" x1="100" x2="100" y1="100.27" y2=".2673" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#202020"/>
+      <stop offset=".5" stop-color="#202020"/>
+      <stop offset="1" stop-color="#858585"/>
+    </linearGradient>
+  </defs>
+  <path style="mix-blend-mode:normal" fill="url(#a)" d="M0 .2673h100v100H0z" transform="translate(0 -.2673)"/>
+  <path fill="#fff" d="M33.7146 37.3401a6.1071 6.1071 0 01-6.1071 6.1071 6.1071 6.1071 0 01-6.1071-6.107 6.1071 6.1071 0 016.1071-6.1072 6.1071 6.1071 0 016.1071 6.1071z"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8.0858004" d="M27.6075 52.1478v20.3"/>
+  <path fill="red" fill-rule="evenodd" d="M74.4286 76.5436c2.2393 0 4.0714-1.8321 4.0714-4.0714V60.258a12.2142 12.2142 0 00-20.357-9.0792 12.2142 12.2142 0 00-20.357 9.0426v12.2142c0 2.2393 1.8321 4.0714 4.0714 4.0714s4.0714-1.8321 4.0714-4.0714V60.2214a4.0714 4.0714 0 118.1428 0v12.2508a4.0714 4.0714 0 003.6643 4.0714h.8142a4.0714 4.0714 0 003.6643-4.0714V60.258a4.0714 4.0714 0 118.1428 0v12.2142c0 2.2393 1.8321 4.0714 4.0714 4.0714z"/>
+</svg>

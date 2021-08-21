@@ -1,0 +1,60 @@
+{
+	"Text": {
+		"Content": "",
+		"Additional_Wrap": 3,
+		"Kerning": -1,
+		"Replacements": {
+			"''":	"\"",
+			"{bs}":	"\\"
+			}
+		},
+	"Emoji": {
+		"API_Type": 1,
+		"Style_if_1": false,
+		"Vendor_if_2": false,
+		"Version_if_2": false
+	},
+	"Image": {
+		"URL_or_Path": ""
+	},
+	"Font": {
+		"Type": 2
+	},
+	"Settings": {
+		"Delay": 3,
+		"Percentage_Elements_Size": {
+			"Font": 10,
+			"Emojis": 67,
+			"Leading": 112,
+			"Caption_Field_Height": 150,
+			"Emoji_Height_Spacing": 25
+		},
+		"Optimize": {
+			"Enabled": true,
+			"PNGQuant": {
+				"Speed": 1,
+				"Colors": 256
+			},
+			"Gifsicle": {
+				"Lossy": 200,
+				"Colors": 256
+			}
+		},
+		"Dark_Mode": {
+			"Enabled": false,
+			"After_Hour": 22
+		},
+		"Packages": {
+			"Location": {
+				"FFmpeg": null,
+				"PNGQuant": null,
+				"Gifsicle": null
+				},
+			"Logs": false
+		},
+		"Colored_Prints": true,
+		"Open_Folder": true,
+		"Time_Logs": true,
+		"Sound": true
+		}
+}
