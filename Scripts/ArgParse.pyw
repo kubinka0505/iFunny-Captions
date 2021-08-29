@@ -101,7 +101,7 @@ if len(os.sys.argv) > 1:
 	)
 
 	try:
-		Config["Settings"]["Dark_Mode"]["Enabled"] = True
+		Config["Settings"]["Dark_Mode"]["Enabled"] = False
 		Config["Settings"]["Dark_Mode"]["After_Hour"] = args.dark_mode
 	except AttributeError: pass
 
