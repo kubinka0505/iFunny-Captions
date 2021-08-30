@@ -97,7 +97,9 @@ def File_Size(Bytes: float) -> str:
 def Grayscale(Path: os.path.abspath) -> bool:
 	"""Checks if image can be converted
 	into grayscale color palette"""
-	RGB = Image.open(Path).convert("RGB").split()
+	Picture = Image.open(Path)
+	if Picture.mode not in ("L", "RGB"):
+		return False
 	for Color in range(1, 2 + 1):
 		if ImageChops.difference(RGB[0], RGB[Color]).getextrema()[1] != 0:
 			return False
