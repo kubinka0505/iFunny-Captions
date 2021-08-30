@@ -63,7 +63,7 @@ Modules:
 - <a href="https://github.com/kubinka0505/auepa" target=_blank>`auepa`</a> *(optional)*
 
 Packages (bold links are **Windows** static executable binaries):
-- <a href="https://videohelp.com/software/ffmpeg/old-versions" target=_blank>**`FFmpeg >= 4.2.0`**</a> - Since `PIL.ImageSequence.Iterator` messes up the frames colors.
+- <a href="https://videohelp.com/software/ffmpeg/old-versions" target=_blank>**`FFmpeg >= 4.3.2`**</a> - Since `PIL.ImageSequence.Iterator` messes up the frames colors.
 - <a href="https://eternallybored.org/misc/gifsicle/releases" target=_blank>**`Gifsicle >= 1.92-2`**</a> - **Check 64-bit if possible!** (<a href="https://github.com/kubinka0505/iFunny-Captions/wiki/Known-Issues-%F0%9F%93%9D%F0%9F%90%9B#4-scale_back-option-doesnt-work" target=_blank>`Scale_Back`</a> option)
 - <a href="https://pngquant.org/#download" target=_blank>**`PNGQuant >= 2.12.10`**</a> *(optional)*
 - <a href="https://packages.debian.org/sid/python3-pip" target=_blank>`Python3-PIP`</a><sup>1</sup>
