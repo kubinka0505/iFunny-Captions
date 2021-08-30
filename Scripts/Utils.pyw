@@ -34,7 +34,7 @@ def Get_Emoji_Image(Name: str, Style: int = 5) -> Image.open:
 			str(Styles[Style]).lower()
 			), stream = True
 		).raw
-	)
+	).convert("RGBA")
 	#---#
 	ImageIO = io.BytesIO()
 	Emoji_Image.save(ImageIO, "PNG")
