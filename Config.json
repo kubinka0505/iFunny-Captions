@@ -1,0 +1,100 @@
+{
+	"Text": {
+		"Content": "",
+		"Additional_Wrap": -5,
+		"Kerning": -1,
+		"Replacements": {
+			"''":	"\"",
+			"{bs}":	"\\"
+			}
+		},
+	"Emoji": {
+		"API_Type": 1,
+		"Style_if_1": false,
+		"Vendor_if_2": false,
+		"Version_if_2": false
+	},
+	"Media": {
+		"Image": {
+			"URL_or_Path": "",
+			"Scale_Back": false,
+			"Watermark": false
+		},
+		"Video": {
+			"Duration": {
+				"Start": 0,
+				"End": 0
+			},
+			"Audio": {
+				"URL_or_Path": "",
+				"Bitrate": 320,
+				"Channels": 2
+			},
+			"Keep_Image": false
+		}
+	},
+	"Font": {
+		"Type": 2
+	},
+	"Settings": {
+		"Delay": 2,
+		"Caption_Design": {
+			"Percentage_Elements_Size": {
+				"Font": 10,
+				"Emojis": 67,
+				"Leading": 112,
+				"Caption_Field_Height": 150
+			},
+			"Colors": {
+				"Text": "#000",
+				"Caption_Field": "#FFF"
+			}
+		},
+		"Optimize": {
+			"Enabled": true,
+			"PNGQuant": {
+				"Speed": 1,
+				"Colors": 256
+			},
+			"Gifsicle": {
+				"Lossy": 200,
+				"Colors": 256
+			}
+		},
+		"Dark_Mode": {
+			"Enabled": false,
+			"Colors": {
+				"Text": "#A0A0A0",
+				"Caption_Field": "#141414"
+				},
+			"After_Hour": 22
+		},
+		"Packages": {
+			"Location": {
+				"FFmpeg": null,
+				"PNGQuant": null,
+				"Gifsicle": null
+				},
+			"Logs": false
+		},
+		"Colored_Prints": {
+			"Enabled": true,
+			"Colors": {
+				"Error": "#C50F1F",
+				"OK": "#16C60C",
+				"Flaw": "#E74856",
+				"Info": {
+					"Main": "#4099DD",
+					"Meta": {
+						"1": "#808080",
+						"2": "#B000FF"
+						}
+					}
+				}
+			},
+		"Open_Folder": true,
+		"Time_Logs": true,
+		"Verbose": true,
+		"Sound": true
+	}
+}

@@ -1,0 +1,9 @@
+requests>=2.12.5
+sty
+clipboard>=0.0.4
+Pillow>=5.1
+mutagen
+emoji>=1.5
+auepa
+unidecode
+pyshortcuts
