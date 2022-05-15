@@ -1,0 +1,92 @@
+{
+	"Text": {
+		"Content": "",
+		"Additional_Wrap": -5,
+		"Kerning": 0,
+		"Font": {
+			"Type": 2
+		},
+		"Replacements": {
+			"''":	"\"",
+			"{bs}":	"\\"
+			}
+		},
+	"Emoji": {
+		"API_Type": 1,
+		"Style_if_1": false,
+		"Vendor_if_2": false,
+		"Version_if_2": false
+	},
+	"Media": {
+		"Image": {
+			"URL_or_Path": "",
+			"Scale_Back": true,
+			"Watermark": false
+		},
+		"Video": {
+			"Duration": {
+				"Start": 0.0,
+				"End": 0.0
+			},
+			"Audio": {
+				"URL_or_Path": "",
+				"Bitrate": 192,
+				"Channels": 2
+			},
+			"Keep_Image": false,
+			"WebM": false
+		}
+	},
+	"Settings": {
+		"Delay": 0,
+		"Loop_Count": 0,
+		"Caption_Design": {
+			"Colors": {
+				"Text": "Black",
+				"Caption_Field": "White"
+			}
+		},
+		"Optimize": {
+			"Enabled": true,
+			"PNGQuant": {
+				"Speed": 1,
+				"Colors": 256
+			},
+			"Gifsicle": {
+				"Lossy": 400,
+				"Colors": 256
+			}
+		},
+		"Dark_Mode": {
+			"Enabled": false,
+			"After_Hour": 22,
+			"Colors": {
+				"Text": "#A0A0A0",
+				"Caption_Field": "#141414"
+			}
+		},
+		"Colored_Prints": {
+			"Enabled": true,
+			"Colors": {
+				"Error": "#C10",
+				"OK": "#0C0",
+				"Flaw": "#F36",
+				"Info": {
+					"Main": "#4AF",
+					"Meta": {
+						"1": "#999",
+						"2": "#90F"
+						}
+					}
+				}
+			},
+		"Logs": {
+			"Time": true,
+			"Packages": false
+		},
+		"Add_Metadata": true,
+		"Open_Folder": false,
+		"Quiet": false,
+		"Sound": true
+	}
+}
