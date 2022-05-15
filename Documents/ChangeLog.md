@@ -308,9 +308,9 @@ Initial release.
 ### Fixed 📝
 - Missing frames bug.
 ### Modified 🔁
-- **Renamed `__init__.pyw` to `iFunny_Captions.pyw`**
-- **Changed the Emoji API type for `Futura Condensed Extra Bold` font to `Twitter`** (**`6`**)
-- **Improved images quality.**
+- **Renamed `__init__.pyw` to `iFunny_Captions.pyw`**.
+- **Changed the Emoji API type for `Futura Condensed Extra Bold` font to `Twitter`**. (**`6`**)
+- **Improved images quality**.
 - Systems of:
   - Automatic packages detection (#15)
   - Newlines (#12)
